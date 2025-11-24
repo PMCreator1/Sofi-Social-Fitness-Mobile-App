@@ -1,0 +1,9 @@
+{
+  "name": "Routine - Social Activity Tracker",
+  "description": "A mobile-first aggregator for sports and social events. Set goals, join clubs, and track progress with community support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
